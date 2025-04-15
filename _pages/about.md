@@ -74,6 +74,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 <img src="images/basketball.png" alt="Roller Skating Club Logo" width="30%"/>
 <img src="images/lalacao.png" alt="Roller Skating Club Logo" width="30%"/>
+
 <img src="images/skating.png" alt="Roller Skating Club Logo" width="30%"/>
 <img src="images/roller.png" alt="Roller Skating Club Logo" width="30%"/>
 
