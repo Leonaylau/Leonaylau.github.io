@@ -18,7 +18,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 💼 Internships
 =
-## <img src="images/mininglamp_logo.png" alt="Mininglamp" width="80% "/>  Mininglamp  |  Product Operator  
+## <img src="images/mininglamp_logo.png" alt="Mininglamp" width="10% "/>  Mininglamp  |  Product Operator  
 📍 *Beijing, China* ‧ 🗓️ *Mar 2024 – May 2024*
 
 - Conducted market research and analyzed user feedback to improve AI-generated marketing copy.
@@ -43,6 +43,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 ------
 
+<br/>
 
 📝 Campus Experience
 ===
@@ -62,6 +63,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 ------
 
+<br/>
 
 🎖️ Honor & Skills
 ======
