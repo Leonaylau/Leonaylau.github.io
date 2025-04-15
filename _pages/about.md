@@ -17,14 +17,14 @@ My employment direction is in data analytics, AI product operation, or marketing
 <br/>
 
 # 💼 Internships
-## <img src="images/mininglamp_logo.png" alt="Mininglamp" width="10% "/>  Mininglamp  |  Product Operator  
+## <img src="images/mininglamp_logo.png" alt="Mininglamp" width="20% "/>  Mininglamp  |  Product Operator  
 📍 *Beijing, China* ‧ 🗓️ *Mar 2024 – May 2024*
 
 - Conducted market research and analyzed user feedback to improve AI-generated marketing copy.
 - Applied NLP keyword extraction and fine-tuned Top-K sampling parameters to enhance model alignment and fluency.
 - Designed 50+ reusable prompt templates, streamlining content generation workflows and reducing manual revision costs by 20%.
 
-## <img src="images/citic_trust_logo.png" alt="CITIC Trust Logo" width="80"/>  CITIC Trust  |  Trust Business Assistant
+## <img src="images/citic_trust_logo.png" alt="CITIC Trust Logo" width="15"/>  CITIC Trust  |  Trust Business Assistant
 
 📍 *Beijing, China* ‧ 🗓️ *Nov 2023 – Jan 2024*
 - Managed 100+ transactions daily, ensuring data accuracy and regulatory compliance.
