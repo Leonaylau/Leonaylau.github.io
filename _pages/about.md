@@ -70,7 +70,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 *  2nd Prize – National Math Competition  
 *  IELTS 6.5
 
-
+------
 
   <a href="https://github.com/Leonaylau" target="_blank">
   <span class="fab fa-github"></span> Leonaliu
