@@ -12,11 +12,11 @@ redirect_from:
 I am a master student in [E-Commerce and Internet Computing](https://www.ecom-icom.hku.hk/) at the University of Hong Kong. I graduated from Beijing Normal University with a bachelor’s degree in [Accounting](https://bs.bnu.edu.cn/) in 2024.
 My employment direction is in data analytics, AI product operation, or marketing strategy, where I can apply my interdisciplinary background in technology and business.
 
+------
 
 
 💼 Internships
 =
-------
 ## <img src="images/mininglamp_logo.png" alt="Mininglamp" width="80"/>  Mininglamp  |  Product Operator  
 📍 *Beijing, China* ‧ 🗓️ *Mar 2024 – May 2024*
 
@@ -40,11 +40,11 @@ My employment direction is in data analytics, AI product operation, or marketing
 - Assisted in writing investment-grade reports with visualized insights using R and PowerPoint.
 
 
+------
 
 
 📝 Campus Experience
 ===
-------
 ## <img src="images/roller_skating_club_logo.png" alt="Roller Skating Club Logo" width="80"/>  Roller Skating Club  | President
 📍 *Beijing, China* ‧ 🗓️ *Sep 2021 – Jun 2023*
 
@@ -58,6 +58,8 @@ My employment direction is in data analytics, AI product operation, or marketing
 - Applied Herfindahl-Hirschman Index (HHI) to assess diversification.
 - Used Stata for PCA & regression modeling on solvency metrics across industries.
 - Translated financial theories into quantifiable, data-driven insights.
+
+------
 
 
 🎖️ Honor & Skills
