@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Hi there, I'm YAO LIU 👋
+# Hi there, I'm YAO LIU 👋
 I am a master student in [E-Commerce and Internet Computing](https://www.ecom-icom.hku.hk/) at the University of Hong Kong. I graduated from Beijing Normal University with a bachelor’s degree in [Accounting](https://bs.bnu.edu.cn/) in 2024.
 My employment direction is in data analytics, AI product operation, or marketing strategy, where I can apply my interdisciplinary background in technology and business.
 
@@ -44,8 +44,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 <br/>
 
-📝 Campus Experience
-===
+# 📝 Campus Experience
 ## <img src="images/roller_skating_club_logo.png" alt="Roller Skating Club Logo" width="80"/>  Roller Skating Club  | President
 📍 *Beijing, China* ‧ 🗓️ *Sep 2021 – Jun 2023*
 
@@ -64,9 +63,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 <br/>
 
-🎖️ Honor & Skills
-======
-
+# 🎖️ Honor & Skills
 * **Computer:** Python, R, Stata, Excel, NLP, Data Analysis, Photoshop  
 * **Business:** Financial Modeling, Financial Statement, Cost Control, Audit  
 *  1st Prize – Beijing Mathematics Competition  
@@ -74,12 +71,6 @@ My employment direction is in data analytics, AI product operation, or marketing
 *  IELTS 6.5
 
 
-<div align="center">
-  <img width="50" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-</div>
-<div align="center">
-
-  <span class="fab fa-github"></span> [Leonaliu](https://github.com/Leonaylau)
 
   <a href="https://github.com/Leonaylau" target="_blank">
   <span class="fab fa-github"></span> Leonaliu
