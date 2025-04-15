@@ -76,8 +76,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 
 <div align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-  <h2 align="center"> [![Github](https://github.com/Leonaylau) </h2>
+  <img width="50" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
 </div>
 <div align="center">
 
