@@ -7,17 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-
 Hello everyone, my name is Liu Yao. I am a master student in [E-Commerce and Internet Computing](https://www.ecom-icom.hku.hk/) at the University of Hong Kong. I graduated from Beijing Normal University with a bachelor’s degree in [Accounting](https://bs.bnu.edu.cn/).
-My employment direction is xxx
+My employment direction is in data analytics, AI product operation, or marketing strategy, where I can apply my interdisciplinary background in technology and business.
 
-------
-
----
 Experience
-------
+=====
 
-### <img src="images/mininglamp_logo.png" alt="Mininglamp" width="80"/>  Mininglamp | Product Operator  
+### <img src="images/mininglamp_logo.png" alt="Mininglamp" width="80"/>  Mininglamp  |  Product Operator  
 
 📍 *Beijing, China* ‧ 🗓️ *Mar 2024 – May 2024*
 
@@ -27,7 +23,7 @@ Experience
 
 - Designed 50+ reusable prompt templates, streamlining content generation workflows and reducing manual revision costs by 20%.
 
-### <img src="images/citic_trust_logo.png" alt="CITIC Trust Logo" width="80"/>  CITIC Trust | Trust Business Assistant
+### <img src="images/citic_trust_logo.png" alt="CITIC Trust Logo" width="80"/>  CITIC Trust  |  Trust Business Assistant
 
 📍 Beijing, China ‧ 🗓️ Nov 2023 – Jan 2024
 
@@ -37,7 +33,7 @@ Experience
 
 - Analyzed net value fluctuations using PivotTables and VLOOKUP; supported fund reconciliation and anomaly detection.
 
-### <img src="images/belt_road_logo.png" alt="Belt and Road Origin Technology Logo" width="80"/>  Belt and Road Origin Technology | Research Assistant
+### <img src="images/belt_road_logo.png" alt="Belt and Road Origin Technology Logo" width="80"/>  Belt and Road Origin Technology  |  Research Assistant
 
 📍 Beijing, China ‧ 🗓️ Jun 2022 – Aug 2022
 
@@ -47,7 +43,8 @@ Experience
 
 - Assisted in writing investment-grade reports with visualized insights using R and PowerPoint.
 
-### <img src="images/roller_skating_club_logo.png" alt="Roller Skating Club Logo" width="80"/>  Roller Skating Club | President
+### <img src="images/roller_skating_club_logo.png" alt="Roller Skating Club Logo" width="80"/>  Roller Skating Club  | 
+ President
 📍 Beijing, China ‧ 🗓️ Sep 2021 – Jun 2023
 
 - Organized intercollegiate events and managed operations for a 300+ member community.
@@ -61,8 +58,8 @@ Experience
 
 Project
 ======
-**Corporate Diversification & Solvency | Researcher**
-National Innovation Program · Sep 2021 – Mar 2022
+**Corporate Diversification & Solvency  |  Researcher**
+National Innovation Program · 🗓️ Sep 2021 – Mar 2022
 
 - Applied Herfindahl-Hirschman Index (HHI) to assess diversification.
 - Used Stata for PCA & regression modeling on solvency metrics across industries.
