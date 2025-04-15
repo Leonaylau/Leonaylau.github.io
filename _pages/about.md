@@ -11,12 +11,11 @@ redirect_from:
 Hello everyone, my name is Liu Yao. I am a master student in E-Commerce and Internet Computing at the University of Hong Kong (https://www.ecom-icom.hku.hk/). I graduated from Beijing Normal University with a bachelor’s degree in Accounting (https://bs.bnu.edu.cn/).
 My employment direction is xxx
 
-Experience
-======
-**Mininglamp | Product Operator**
 💼 Experience
-🔹 Mininglamp · Product Operator
+======
+**🔹 Mininglamp | Product Operator**
 ### <img src="images/mininglamp_logo.png" alt="Mininglamp" width="20"/> Mininglamp · Product Operator  
+
 📍 *Beijing, China* ‧ 🗓️ *Mar 2024 – May 2024*
 
 - Conducted market research and analyzed user feedback to improve AI-generated marketing copy.
@@ -25,7 +24,8 @@ Experience
 
 - Designed 50+ reusable prompt templates, streamlining content generation workflows and reducing manual revision costs by 20%.
 
-🔹 CITIC Trust · Trust Business Assistant
+**🔹 CITIC Trust | Trust Business Assistant**
+
 📍 Beijing, China ‧ 🗓️ Nov 2023 – Jan 2024
 
 - Managed 100+ transactions daily, ensuring data accuracy and regulatory compliance.
@@ -34,7 +34,8 @@ Experience
 
 - Analyzed net value fluctuations using PivotTables and VLOOKUP; supported fund reconciliation and anomaly detection.
 
-🔹 Belt and Road Origin Technology · Research Assistant
+**🔹 Belt and Road Origin Technology | Research Assistant**
+
 📍 Beijing, China ‧ 🗓️ Jun 2022 – Aug 2022
 
 - Translated and structured financial reports and bond market data for accessibility.
@@ -43,7 +44,8 @@ Experience
 
 - Assisted in writing investment-grade reports with visualized insights using R and PowerPoint.
 
-🔹 Roller Skating Club · President
+**🔹 Roller Skating Club | President**
+
 📍 Beijing, China ‧ 🗓️ Sep 2021 – Jun 2023
 
 - Organized intercollegiate events and managed operations for a 300+ member community.
