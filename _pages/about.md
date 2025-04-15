@@ -17,21 +17,21 @@ My employment direction is in data analytics, AI product operation, or marketing
 💼 Internships
 =
 ------
-  ### <img src="images/mininglamp_logo.png" alt="Mininglamp" width="80"/>  Mininglamp  |  Product Operator  
+## <img src="images/mininglamp_logo.png" alt="Mininglamp" width="80"/>  Mininglamp  |  Product Operator  
 📍 *Beijing, China* ‧ 🗓️ *Mar 2024 – May 2024*
 
 - Conducted market research and analyzed user feedback to improve AI-generated marketing copy.
 - Applied NLP keyword extraction and fine-tuned Top-K sampling parameters to enhance model alignment and fluency.
 - Designed 50+ reusable prompt templates, streamlining content generation workflows and reducing manual revision costs by 20%.
 
-### <img src="images/citic_trust_logo.png" alt="CITIC Trust Logo" width="80"/>  CITIC Trust  |  Trust Business Assistant
+## <img src="images/citic_trust_logo.png" alt="CITIC Trust Logo" width="80"/>  CITIC Trust  |  Trust Business Assistant
 
 📍 *Beijing, China* ‧ 🗓️ *Nov 2023 – Jan 2024*
 - Managed 100+ transactions daily, ensuring data accuracy and regulatory compliance.
 - Improved data entry processes with Excel validation rules, minimizing input errors.
 - Analyzed net value fluctuations using PivotTables and VLOOKUP; supported fund reconciliation and anomaly detection.
 
-### <img src="images/belt_road_logo.png" alt="Belt and Road Origin Technology Logo" width="80"/>  Belt and Road Origin Technology  |  Research Assistant
+## <img src="images/belt_road_logo.png" alt="Belt and Road Origin Technology Logo" width="80"/>  Belt and Road Origin Technology  |  Research Assistant
 
 📍 *Beijing, China* ‧ 🗓️ *Jun 2022 – Aug 2022*
 
@@ -39,20 +39,13 @@ My employment direction is in data analytics, AI product operation, or marketing
 - Built tagging systems and cleaned credit datasets in Excel to support credit scoring models.
 - Assisted in writing investment-grade reports with visualized insights using R and PowerPoint.
 
-### <img src="images/roller_skating_club_logo.png" alt="Roller Skating Club Logo" width="80"/>  Roller Skating Club  | President
-📍 *Beijing, China* ‧ 🗓️ *Sep 2021 – Jun 2023*
-
-- Organized intercollegiate events and managed operations for a 300+ member community.
-- Handled annual budgets, reimbursement workflows, and cost controls for large-scale events.
-- Grew online presence with 10+ social media posts gaining 10,000+ views.
-
 
 
 
 📝 Campus Experience
 ===
 ------
-### <img src="images/roller_skating_club_logo.png" alt="Roller Skating Club Logo" width="80"/>  Roller Skating Club  | President
+## <img src="images/roller_skating_club_logo.png" alt="Roller Skating Club Logo" width="80"/>  Roller Skating Club  | President
 📍 *Beijing, China* ‧ 🗓️ *Sep 2021 – Jun 2023*
 
 - Organized intercollegiate events and managed operations for a 300+ member community.
