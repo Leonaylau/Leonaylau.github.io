@@ -31,7 +31,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 - Improved data entry processes with Excel validation rules, minimizing input errors.
 - Analyzed net value fluctuations using PivotTables and VLOOKUP; supported fund reconciliation and anomaly detection.
 
-## <img src="images/belt_road_logo.png" alt="Belt and Road Origin Technology Logo" width="15%"/>  Belt and Road Origin Technology  |  Research Assistant
+## <img src="images/belt_road_logo.png" alt="Belt and Road Origin Technology Logo" width="10%"/>  Belt and Road Origin Technology  |  Research Assistant
 
 📍 *Beijing, China* ‧ 🗓️ *Jun 2022 – Aug 2022*
 
@@ -45,7 +45,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 <br/>
 
 # 📝 Campus Experience
-## <img src="images/roller_skating_club_logo.png" alt="Roller Skating Club Logo" width="15%"/>  Roller Skating Club  | President
+## <img src="images/roller_skating_club_logo.png" alt="Roller Skating Club Logo" width="10%"/>  Roller Skating Club  | President
 📍 *Beijing, China* ‧ 🗓️ *Sep 2021 – Jun 2023*
 
 - Organized intercollegiate events and managed operations for a 300+ member community.
