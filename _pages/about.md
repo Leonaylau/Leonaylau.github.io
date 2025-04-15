@@ -74,7 +74,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 <img src="images/basketball.png" alt="basketball" width="25%"/>
 <img src="images/lalacao.png" alt="Dancing" width="25%"/>
-<img src="images/roller.png" alt="rollerskating" width="25%"/>
+<img src="images/roller.png" alt="rollerskating" width="22%"/>
 <img src="images/sing.png" alt="sing" width="25%"/>
 
   <a href="https://github.com/Leonaylau" target="_blank">
