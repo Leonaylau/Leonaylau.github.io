@@ -72,11 +72,11 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 ------
 
-<img src="images/basketball.png" alt="Roller Skating Club Logo" width="30%"/>
-<img src="images/lalacao.png" alt="Roller Skating Club Logo" width="30%"/>
+<img src="images/basketball.png" alt="basketball" width="25%"/>
+<img src="images/lalacao.png" alt="Dancing" width="25%"/>
 
-<img src="images/skating.png" alt="Roller Skating Club Logo" width="30%"/>
-<img src="images/roller.png" alt="Roller Skating Club Logo" width="30%"/>
+<img src="images/roller.png" alt="rollerskating" width="25%"/>
+<img src="images/sing.png" alt="sing" width="25%"/>
 
   <a href="https://github.com/Leonaylau" target="_blank">
   <span class="fab fa-github"></span> Leonaliu
