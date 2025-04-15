@@ -14,8 +14,8 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 
 
-Experience
-=====
+💼 Experience
+=
 ------
 ### <img src="images/mininglamp_logo.png" alt="Mininglamp" width="80"/>  Mininglamp  |  Product Operator  
 
@@ -59,8 +59,8 @@ Experience
 
 
 
-Project
-======
+📝 Project
+===
 ------
 **Corporate Diversification & Solvency  |  Researcher**
 National Innovation Program · 🗓️ Sep 2021 – Mar 2022
@@ -70,7 +70,14 @@ National Innovation Program · 🗓️ Sep 2021 – Mar 2022
 - Translated financial theories into quantifiable, data-driven insights.
 
 
+🎖️ Honor & Skills
+======
 
+* **Computer:** Python, R, Stata, Excel, NLP, Data Analysis, Photoshop  
+* **Business:** Financial Modeling, Financial Statement, Cost Control, Audit  
+*  1st Prize – Beijing Mathematics Competition  
+*  2nd Prize – National Math Competition  
+*  IELTS 6.5
 
 How to edit your site's GitHub repository
 ------
