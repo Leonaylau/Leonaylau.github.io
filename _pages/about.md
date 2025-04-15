@@ -17,8 +17,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 💼 Internships
 =
 ------
-  ### <img src="images/mininglamp_logo.png" alt="Mininglamp" width="80"/> 
- Mininglamp  |  Product Operator  
+  ### <img src="images/mininglamp_logo.png" alt="Mininglamp" width="80"/>  Mininglamp  |  Product Operator  
 📍 *Beijing, China* ‧ 🗓️ *Mar 2024 – May 2024*
 
 - Conducted market research and analyzed user feedback to improve AI-generated marketing copy.
@@ -61,10 +60,8 @@ My employment direction is in data analytics, AI product operation, or marketing
 - Grew online presence with 10+ social media posts gaining 10,000+ views.
 
 
-## Corporate Diversification & Solvency   |   Researcher
-
+**Corporate Diversification & Solvency | Researcher**
 *National Innovation Program* · 🗓️ *Sep 2021 – Mar 2022*
-
 - Applied Herfindahl-Hirschman Index (HHI) to assess diversification.
 - Used Stata for PCA & regression modeling on solvency metrics across industries.
 - Translated financial theories into quantifiable, data-driven insights.
