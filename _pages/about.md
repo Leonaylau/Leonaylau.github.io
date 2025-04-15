@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello everyone, my name is Liu Yao. I am a master student in [E-Commerce and Internet Computing](https://www.ecom-icom.hku.hk/) at the University of Hong Kong. I graduated from Beijing Normal University with a bachelor’s degree in [Accounting]((https://bs.bnu.edu.cn/).
+Hello everyone, my name is Liu Yao. I am a master student in [E-Commerce and Internet Computing](https://www.ecom-icom.hku.hk/) at the University of Hong Kong. I graduated from Beijing Normal University with a bachelor’s degree in [Accounting](https://bs.bnu.edu.cn/).
 My employment direction is xxx
 
 💼 Experience
