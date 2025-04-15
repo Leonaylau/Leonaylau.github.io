@@ -80,3 +80,8 @@ My employment direction is in data analytics, AI product operation, or marketing
 <div align="center">
 
   <span class="fab fa-github"></span> [Leonaliu](https://github.com/Leonaylau)
+
+  <a href="https://github.com/Leonaylau" target="_blank">
+  <span class="fab fa-github"></span> Leonaliu
+</a>
+
