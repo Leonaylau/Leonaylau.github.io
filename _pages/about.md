@@ -64,7 +64,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 <br/>
 
 # 🎖️ Honor & Skills
-* **Computer:** Python, R, Stata, Excel, NLP, Data Analysis, Photoshop  
+* **Computing:** Python, R, Stata, Excel, NLP, Photoshop  
 * **Business:** Financial Modeling, Financial Statement, Cost Control, Audit  
 *  1st Prize – Beijing Mathematics Competition  
 *  2nd Prize – National Math Competition  
