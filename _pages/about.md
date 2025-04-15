@@ -80,4 +80,5 @@ My employment direction is in data analytics, AI product operation, or marketing
 </div>
 <div align="center">
 
-[![Github](https://github.com/Leonaylau)
+  <span class="fab fa-github"></span> GitHub
+[Github](https://github.com/Leonaylau)
