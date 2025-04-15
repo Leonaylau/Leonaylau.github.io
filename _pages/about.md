@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone, my name is Liu Yao. I am a master student in [E-Commerce and Internet Computing](https://www.ecom-icom.hku.hk/) at the University of Hong Kong. I graduated from Beijing Normal University with a bachelor’s degree in [Accounting](https://bs.bnu.edu.cn/).
+
+## Hi there, I'm YAO LIU 👋
+I am a master student in [E-Commerce and Internet Computing](https://www.ecom-icom.hku.hk/) at the University of Hong Kong. I graduated from Beijing Normal University with a bachelor’s degree in [Accounting](https://bs.bnu.edu.cn/) in 2024.
 My employment direction is in data analytics, AI product operation, or marketing strategy, where I can apply my interdisciplinary background in technology and business.
 
 Experience
