@@ -16,8 +16,7 @@ My employment direction is in data analytics, AI product operation, or marketing
 
 <br/>
 
-💼 Internships
-=
+# 💼 Internships
 ## <img src="images/mininglamp_logo.png" alt="Mininglamp" width="10% "/>  Mininglamp  |  Product Operator  
 📍 *Beijing, China* ‧ 🗓️ *Mar 2024 – May 2024*
 
